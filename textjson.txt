@@ -1,0 +1,19 @@
+//person data
+{
+    "name": "Alice ranson",
+    "age": 32,
+    "work": "chef",
+    "mobile": "123654789",
+    "email": "alice2@gmail.com",
+    "address": "dammam",
+    "salary": 1000000
+}
+//menu item
+{
+"name":"spicy chicken wings",
+"price":9.99,
+"taste":"spice",
+"is_drink":false,
+"ingredients":["chicken leg","spices","souce"],
+"num_sales":65
+}
